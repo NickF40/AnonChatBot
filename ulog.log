@@ -1,0 +1,289 @@
+main_polling.py[LINE:197]# INFO     [2017-06-07 23:36:04,743]  241738569:NickYefremov:кркоцоуоклелнл
+main_polling.py[LINE:197]# INFO     [2017-06-07 23:36:12,217]  213219992:NickF40:dgjhhjhjhj
+main_polling.py[LINE:197]# INFO     [2017-06-07 23:36:14,944]  241738569:NickYefremov:воуокорлнд
+main_polling.py[LINE:197]# INFO     [2017-06-07 23:36:18,490]  213219992:NickF40:gdgsdgdsg
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:44:17,266]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:44:21,334]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:44:32,919]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:45:36,627]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:45:39,964]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:45:50,362]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:47:13,825]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:47:17,581]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-07 23:47:28,612]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:13:20,873]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:13:25,474]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:13:39,868]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:13:54,652]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:13:58,882]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
+jobqueue.py[LINE:295]# ERROR    [2017-06-08 16:14:11,741]  An uncaught error was raised while executing job spam
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 291, in tick
+    job.run(self.bot)
+  File "D:\Python\lib\site-packages\telegram\ext\jobqueue.py", line 421, in run
+    self.callback(bot, self)
+  File "C:/Users/Nick/Desktop/proj/toSend/main_webhook.py", line 39, in spam
+    bot_.send_message(chat_id=id_, text=news)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 125, in decorator
+    result = func(self, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 158, in decorator
+    return Bot._message_wrapper(self, url, data, *args, **kwargs)
+  File "D:\Python\lib\site-packages\telegram\bot.py", line 146, in _message_wrapper
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 252, in post
+    **urlopen_kwargs)
+  File "D:\Python\lib\site-packages\telegram\utils\request.py", line 194, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Message must be non-empty
