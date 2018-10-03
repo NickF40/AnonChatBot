@@ -1,1 +1,1 @@
-Create your own learning course with TelebotLearn project!
+Simple networking bot, which will connect you to your interlocutor based on your common interests.
