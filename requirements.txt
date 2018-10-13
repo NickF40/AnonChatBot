@@ -20,7 +20,7 @@ py-postgresql==1.2.1
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pycparser==2.17
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.1.10
 pypiwin32==219
 pyshorteners==0.6.0
