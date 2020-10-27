@@ -3,7 +3,7 @@ cffi==1.8.3
 chardet==3.0.3
 cheroot==5.5.0
 CherryPy==10.2.2
-cryptography==1.5.2
+cryptography==3.2
 cycler==0.10.0
 deap==1.0.2
 Django==1.10.3
