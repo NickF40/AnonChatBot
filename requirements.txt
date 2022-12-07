@@ -1,4 +1,4 @@
-certifi==2017.4.17
+certifi==2022.12.7
 cffi==1.8.3
 chardet==3.0.3
 cheroot==5.5.0
